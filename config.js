@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Bây bê !😘',
     introDesc: `Phố đã lên đèn
-    con đường có môi kề môi
+    , con đường có môi kề môi 
     Phố đã lên đèn
     bên người anh thương, anh nhớ, anh mong`,
     btnIntro: 'Ahihi, đồ ngốc',
