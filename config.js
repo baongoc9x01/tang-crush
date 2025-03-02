@@ -1,9 +1,9 @@
 const CONFIG = {
-    introTitle: 'Bây bê !😘',
-    introDesc: `Phố đã lên đèn
-    , con đường có môi kề môi 
-    Phố đã lên đèn
-    bên người anh thương, anh nhớ, anh mong`,
+    introTitle: 'Thế chốt lại là Tại sao anh lại yêu em !😘',
+    introDesc: `Nếu tại sao mà viết thành lời
+    Thì nhiều quá kể sao hết em ơi
+    Anh chỉ biết em như là rượu quý
+    Say một ánh mắt say cả đời`,
     btnIntro: 'Ahihi, đồ ngốc',
     title: 'Có nhạc bên cạnh ai không phiêu, Có em bên cạnh yêu không phai 😙',
     desc: 'Tình yêu nằm ngang của anh luôn ngàn năm ',
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay rảnh hông, anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/haikyuu9x/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/bp9x.fun/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
